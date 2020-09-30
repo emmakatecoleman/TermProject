@@ -1,1 +1,22 @@
 /*CSS styles for term project by Emma Coleman */
+html {
+  background-color: #E7EEFE;
+}
+h1 {
+  color: #C3622A;
+}
+h2 {
+  color: #C3622A;
+}
+p {
+  color: #2A1D1D;
+}
+a {
+  color: #CD5D78;
+}
+div {
+  border-left-style: solid;
+  border-left-width: 16px;
+  border-left-color: #FDD2A1;
+  padding-left: 6px;
+}
