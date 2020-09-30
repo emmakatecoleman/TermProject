@@ -2,6 +2,9 @@
 html {
   background-color: #E7EEFE;
 }
+img {
+  border: 8px solid #2A1D1D;
+}
 h1 {
   color: #C3622A;
 }
