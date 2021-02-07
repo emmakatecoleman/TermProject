@@ -1,25 +1,29 @@
 /*CSS styles for term project by Emma Coleman */
 html {
-  background-color: #E7EEFE;
+  background-color: #F0F7EE;
 }
 img {
-  border: 8px solid #2A1D1D;
+  border: 8px solid #000000;
 }
 h1 {
-  color: #C3622A;
+  color: #87BBA2;
 }
 h2 {
-  color: #C3622A;
+  color: #87BBA2;
 }
 p {
-  color: #2A1D1D;
+  color: #000000;
 }
 a {
-  color: #CD5D78;
+  color: #5D737E;
 }
 div {
   border-left-style: solid;
   border-left-width: 16px;
-  border-left-color: #FDD2A1;
+  border-left-color: #5D737E;
   padding-left: 6px;
+  border-right-style: solid;
+  border-right-width: 16px;
+  border-right-color: #5D737E;
+  padding-right: 6px;
 }
